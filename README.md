@@ -8,7 +8,7 @@ Junior Python developer from Moscow
 
 - Languages: English, German, Russian
 
-- Interests: Cybersecurity, Cryptocurrencies, Social engineering
+- Interests: Cybersecurity, Design, Social engineering
 
 ---
 
