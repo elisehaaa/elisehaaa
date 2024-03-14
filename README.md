@@ -4,11 +4,11 @@
 
 ### :man_technologist: Main info:
 
-Junior Python developer from Moscow
+Business analyst | Moscow, Russia
 
-- Languages: English, German, Russian
+- Languages: English, German, Russian, Serbian
 
-- Interests: Cybersecurity, Design, Social engineering
+
 
 ---
 
